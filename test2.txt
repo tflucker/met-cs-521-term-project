@@ -1,0 +1,9 @@
+Clark,Kent,555-555-5555,kclark@superman.com,Daily Planet,Journalist,Former Supervisor
+Bruce,Wayne,444-444-4444,bwayne@wayne.com,Wayne Enterprises,CEO,Supervisor
+Peter,Parker,111-111-1111,pparker@gmail.com,Daily Bugle,Photographer,Friend
+Bruce,Banner,222-222-2222,bbanner@culver.edu,Culver University,Professor,Friend
+Matt,Murdock,121-232-1234,mmurdock@gmail.com,Nelson and Murdock,Lawyer,Colleauge
+Tony,Stark,242-888-4321,tstark@stark.com,Stark Industries,CEO,Former Supervisor
+Reed,Richards,223-456-9235,rrichards@gmail.com,Reed Enterprises,Scientist,Friend
+Charles,Xavier,223-456-0912,cxavier@academy.edu,Mutant Academy,Principal,Family
+Lex,Luthor,223-456-7819,lluthor@luther.com,LexCorp,CEO,Colleauge

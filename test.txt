@@ -1,0 +1,10 @@
+John,Doe,555-555-5555,jdoe@test.com,Test Company,Technical Lead,Former Supervisor
+Jane,Deer,444-444-4444,jdeer@test.com,Test Compnay,Software Developer,Former Colleauge
+Bob,Smith,111-111-1111,bsmith@faang.com,FAANG Company,Senior Software Developer,Colleauge
+Jerry,Sanchez,222-222-2222,jsanchez@faang.com,FAANG Company,Technical Lead,Current Supervisor
+Billy,Wilson,121-232-1234,bwilson3@email.com,Paco Taco,General Manager,Friend
+Matt,Schmidt,242-888-4321,mschmidt@email.com,Home Depot,Sales Associate,Friend
+Brian,Sharp,223-456-9235,bsharp@email.com,,,Family
+Melinda,Sharp,223-456-0912,msharp@email.com,Fairfield Elementary School,4th Grade Teacher,Family
+David,Sharp,223-456-7819,dsharp@email.com,Yale Alumni Association,Director,Family
+David,Sharp,223-456-7819,dsharp@email.com,Yale Alumni Association,Director,Family

@@ -1,0 +1,10 @@
+ID,FIRST_NAME,LAST_NAME,PHONE_NUMBER,EMAIL,COMPANY,TITLE,RELATIONSHIP
+885,Billy,Wilson,121-232-1234,bwilson3@email.com,Paco Taco,General Manager,Friend
+28,Bob,Smith,111-111-1111,bsmith@faang.com,FAANG Company,Senior Software Developer,Colleauge
+276,John,Doe,555-555-5555,jdoe@test.com,Test Company,Technical Lead,Former Supervisor
+547,David,Sharp,223-456-7819,dsharp@email.com,Yale Alumni Association,Director,Family
+689,Matt,Schmidt,242-888-4321,mschmidt@email.com,Home Depot,Sales Associate,Friend
+902,Jane,Deer,444-444-4444,jdeer@test.com,Test Compnay,Software Developer,Former Colleauge
+878,Jerry,Sanchez,222-222-2222,jsanchez@faang.com,FAANG Company,Technical Lead,Current Supervisor
+792,Melinda,Sharp,223-456-0912,msharp@email.com,Fairfield Elementary School,4th Grade Teacher,Family
+542,TEST,py,123-456-7890,test@py.com,Python,CEO,friend
